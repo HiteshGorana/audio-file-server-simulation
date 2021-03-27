@@ -4,7 +4,7 @@
 
 
 ```text
-create
+Create API
 API : http://127.0.0.1:5000/api/create
 request type :  POST
 ```
@@ -55,7 +55,7 @@ Action is successful: 200 OK
 ```Action is successful: 200 OK```
 
 ```text
-Create API
+Update API
 API : http://127.0.0.1:5000/api/update/<audioFileType>/<audioFileID>
 audioFileType:audiobook
 audioFileID:3
